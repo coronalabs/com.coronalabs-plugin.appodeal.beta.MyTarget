@@ -1,3 +1,3 @@
 dependencies {
-    implementation("com.appodeal.ads.sdk.networks:my_target:2.6.0.2")
+    implementation("com.appodeal.ads.sdk.networks:my_target:2.6.4.3")
 }
